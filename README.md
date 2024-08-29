@@ -1,0 +1,3 @@
+- Deploy with HTTP Trigger
+- Calculates the first n prime numbers and returns them as HTTP response (n = count query parameter)
+- Only for testing purposes
